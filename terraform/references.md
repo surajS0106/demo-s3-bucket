@@ -1,0 +1,6 @@
+- AWS Provider (OpenTofu Registry): https://registry.opentofu.org/providers/hashicorp/aws/latest/docs
+- S3 Bucket: https://registry.opentofu.org/providers/hashicorp/aws/latest/docs/resources/s3_bucket
+- S3 Bucket Versioning: https://registry.opentofu.org/providers/hashicorp/aws/latest/docs/resources/s3_bucket_versioning
+- S3 Bucket CORS: https://registry.opentofu.org/providers/hashicorp/aws/latest/docs/resources/s3_bucket_cors_configuration
+- S3 Public Access Block: https://registry.opentofu.org/providers/hashicorp/aws/latest/docs/resources/s3_bucket_public_access_block
+- S3 Bucket Encryption: https://registry.opentofu.org/providers/hashicorp/aws/latest/docs/resources/s3_bucket_server_side_encryption_configuration
